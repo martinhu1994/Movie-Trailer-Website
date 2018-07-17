@@ -1,4 +1,4 @@
-# movie-trailer-website
+# Movie Trailer Website
 This is a website project writing in python. The content of website is about movies. You are able to see the names, posters, and trailers of movies.
 
 ## Content
